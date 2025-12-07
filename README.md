@@ -1,5 +1,5 @@
-# 💫 About Me:
-|| CSE Student (2nd Year) || 🤖 AIML Enthusiast || <br>💡 Passionate about Machine Learning, Deep Learning, and Problem Solving.
+# ABOUT ME:
+|| CSE Student (2nd Year) || AIML Enthusiast || <br> Passionate about Machine Learning, Deep Learning, and Problem Solving.
 
 
 ## 🌐 Socials:
@@ -18,6 +18,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=2006anand&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 Coffee
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/8448327606-2@axl) 
+  ##  📫 Let's connect:  
+## *Feel free to collaborate and share ideas!
+  [![Get in Touch With Me](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/an91an99jha@gmail.com) 
+  
 
