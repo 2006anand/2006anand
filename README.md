@@ -1,5 +1,5 @@
 # 💫 About Me:
-|| CSE Student || AIML Enthusiast ||<br>💡 Passionate about Machine Learning, Deep Learning, and Problem Solving.
+|| Pre Final Year CSE Student || AIML Lead,GDGoC Organizer ||<br>💡 Passionate about Machine Learning, Deep Learning, and Problem Solving.
 
 
 ## 🌐 Socials:
